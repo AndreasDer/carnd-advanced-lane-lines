@@ -125,7 +125,7 @@ For the processing of the video I started with the function process_single_image
 So I took the advice from the project introduction and used a Line class to store the previous 10 line informations. I used the avg of the last 10 fits to find a smoother fit for the current line.
 Especially in the processing of the video are a lot of possible improvements which could be done if there is more time.
 Because I already have the calculation of the offset and curvature I am not using the suggested Line variables for it.
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](test_videos_output/project_video.mp4)
 
 ---
 
